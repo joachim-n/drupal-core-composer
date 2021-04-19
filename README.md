@@ -1,3 +1,7 @@
+**OBSOLETE**
+
+New version is at https://github.com/joachim-n/drupal-core-development-project
+
 This is a Composer template for developing Drupal core.
 
 It allows:
